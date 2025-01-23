@@ -56,5 +56,5 @@ App Store Download : [https://apps.apple.com/us/app/id1513428589](https://apps.a
 
 ## Old binaries:
 
-* iAnalyse 4 for macOS 10.7 to 10.12: [https://github.com/pierrecouprie/iAnalyse5/releases/tag/4.3.4](https://github.com/pierrecouprie/iAnalyse5/releases/tag/4.3.4)
-* iAnalyse 3 for macOS 10.5 or 10.6: [https://github.com/pierrecouprie/iAnalyse5/releases/tag/3.6.0](https://github.com/pierrecouprie/iAnalyse5/releases/tag/3.6.0)
+* iAnalyse 4 for macOS 10.7 to 10.12: [https://github.com/pierrecouprie/ianalyse/releases/tag/4.3.0](https://github.com/pierrecouprie/ianalyse/releases/tag/4.3.0)
+* iAnalyse 3 for macOS 10.5 or 10.6: [https://github.com/pierrecouprie/ianalyse/releases/tag/3.6.0](https://github.com/pierrecouprie/ianalyse/releases/tag/3.6.0)
