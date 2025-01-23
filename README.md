@@ -6,8 +6,6 @@ Minimum System Requirement: macOS 10.13.6 or newer
 
 Languages: English, Français
 
-![https://apps.apple.com/us/app/id1513428589](Download_on_the_Mac_App_Store_Badge_US-UK_blk_092917-300x76.png)
-
 App Store Download : [https://apps.apple.com/us/app/id1513428589](https://apps.apple.com/us/app/id1513428589)
 
 ![](screenshot_01.png)
